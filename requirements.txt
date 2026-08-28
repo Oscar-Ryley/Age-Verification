@@ -1,0 +1,10 @@
+streamlit
+deepface
+tensorflow
+tf-keras
+passporteye
+Pillow
+cryptography
+opencv-python-headless
+mtcnn
+setuptools<70.0.0
